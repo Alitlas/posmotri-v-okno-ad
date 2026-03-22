@@ -1,1 +1,1 @@
-https://github.com/Alitlas/ono-tebe-nado-ad
+https://github.com/Alitlas/posmotri-v-okno-ad
